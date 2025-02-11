@@ -1,0 +1,2 @@
+# MonikaDesktopAI
+Python ❤️ 🐍
