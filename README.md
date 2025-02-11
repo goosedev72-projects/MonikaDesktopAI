@@ -33,10 +33,10 @@
 Главная киллер-фича проекта перед всеми остальными - гибкость и модульность. Ты можешь использовать документацию, соблюдая несколько условий такие как использование MonikaDesktopAI Utils для изменения лица и вывода текста в диалоги, а также структура SubMods для поддержания красоты, похожей на меню из Monika After Story - и все! Дальше можно использовать стандартные Python библиотеки и код - от простой темы для разговора до выполнения эксплоита!
 
 ### Сделано через
-* [![Python][python.org]][Python-url]
-* [![PyQt][github.com/pyqt][PyQt-url]
-* [![Pillow][github.com/python-pillow/Pillow][Pillow-url]
-* [![PlatformDirs][github.com/tox-dev/platformdirs][Platformdirs-url]
+* Python
+* PyQt
+* Pillow
+* PlatformDirs
 
 
 ## Начало
@@ -61,7 +61,7 @@
    ```
 3. Ставим зависимости
    ```sh
-   npm install
+   pip3 install -r requirements.txt
    ```
 4. Запускаем
    ```js
